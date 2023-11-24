@@ -438,8 +438,9 @@ d3
   .scaleOrdinal()
   .domain(["工作室", "替代空間", "美術館", "減少包裝材及文宣印製", "使用無毒媒材、再生材料、廢物利用素材等", "工作場所、活動展場的節約能源"])
   //.range(d3.schemePaired)
-  .range(["#8E354A","#E16B8C","#DC9FB4","#0D5661","#33A6B8","#81C7D4"])
-  .unknown("#BEBEBE")
+  // .range(["#8E354A","#E16B8C","#DC9FB4","#0D5661","#33A6B8","#81C7D4"])
+  .range(["#82A8CD","#6886a4","#4e647b","#344352","#27323d","#82acd"])
+  .unknown("#9bb9d7")
 )}
 
 function _arc(d3,radius){return(
