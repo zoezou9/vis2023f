@@ -1,11 +1,11 @@
 {
-  "name": "daaf24e43e4cdced",
-  "main": "daaf24e43e4cdced@123.js",
-  "version": "123.0.0",
-  "homepage": "https://observablehq.com/d/daaf24e43e4cdced",
+  "name": "6c1c1488959d46da",
+  "main": "6c1c1488959d46da@72.js",
+  "version": "72.0.0",
+  "homepage": "https://observablehq.com/d/6c1c1488959d46da",
   "author": {
-    "name": "Ming's Workspace",
-    "url": "https://observablehq.com/@ming2-ws"
+    "name": "北科大-周's Workspace",
+    "url": "https://observablehq.com/@bei-ke-da-zhou-ws"
   },
   "type": "module",
   "peerDependencies": {
